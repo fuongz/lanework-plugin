@@ -16,3 +16,7 @@ this machine in for the hook. Details in
 This repository is **published from Lanework's source**; changes made here
 directly are overwritten on the next release. `bin/lanework-checkpoint.cjs`
 is a build output.
+
+## License
+
+[Apache-2.0](LICENSE).
